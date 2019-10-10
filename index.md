@@ -7,11 +7,11 @@
 ### Stage 1
 
 [Group Contract](../pdf/TeamContract.pdf)
-<a href="../pdf/TeamContract.pdf"></a>
+<a href="https://colin-lacey.github.io/UofC-Mingle/pdf/TeamContract.pdf"></a>
 
 ### Stage 2
 [Report](../pdf/report.pdf)
-<a href="../pdf/report.pdf"></a>
+<a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf"></a>
 
 ## Index
 <section>
