@@ -1,4 +1,5 @@
 # UofC Mingle
+### Group 3.5 CPSC 481 Fall 2019
 ## Portfolio
 
 ---
@@ -7,7 +8,10 @@
 
 [Group Contract](../pdf/TeamContract.pdf)
 <a href="../pdf/TeamContract.pdf"></a>
-### Group 3.5 CPSC 481 Fall 2019
+
+### Stage 2
+[Report](../pdf/report.pdf)
+<a href="../pdf/report.pdf"></a>
 
 ## Index
 <section>
