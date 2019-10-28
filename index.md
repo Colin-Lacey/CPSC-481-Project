@@ -5,6 +5,15 @@
 ---
 
 
+[Group Contract](../pdf/TeamContract.pdf)
+<a href="https://colin-lacey.github.io/UofC-Mingle/pdf/TeamContract.pdf"></a>
+
+[Stage 2 Report](../pdf/report.pdf)
+<a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf"></a>
+[Stage 3 Powerpoint](../pdf/report1.pdf)
+ <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report1.pdf"></a>
+ [Stage 3 Report](../pdf/ppt0.pdf)
+ <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt0.pdf"></a>
 
 ## Index
 <section>
@@ -15,11 +24,7 @@
   </nav>
 </section>
 
-[Group Contract](../pdf/TeamContract.pdf)
-<a href="https://colin-lacey.github.io/UofC-Mingle/pdf/TeamContract.pdf"></a>
 
-[Report](../pdf/report.pdf)
-<a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf"></a>
 
 <section id="Lo-Fi">
   <h3><br/>Low Fidelity Prototype</h3>
@@ -29,9 +34,7 @@
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/clublisting.jpg" alt="">
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/clubpage.jpg" alt="">
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/map.jpg" alt="">
-  <video>
-    <source src="https://colin-lacey.github.io/UofC-Mingle/images/vid.avi"/>
-  </video>
+  
 
   
 
