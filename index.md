@@ -29,6 +29,12 @@
 
 <section id="ProjectIdea">
   <h3><br/>Project Idea</h3>
+<section id="Low Fidelity Prototype">
+  <h3><br/>Low Fidelity Prototype</h3>
+  <img src="../images/login.jpg" alt="">
+  <img src="" alt="">
+  <img src="" alt="">
+  <img src="" alt="">
   
 
 <section>
