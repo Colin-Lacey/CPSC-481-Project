@@ -32,7 +32,9 @@
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/clublisting.jpg" alt="">
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/clubpage.jpg" alt="">
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/map.jpg" alt="">
-  <embed src="https://colin-lacey.github.io/UofC-Mingle/images/vid.avi"></embed>
+  <video>
+    <source src="https://colin-lacey.github.io/UofC-Mingle/images/vid.avi"/>
+  </video>
 
   
 
