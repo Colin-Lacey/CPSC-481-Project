@@ -31,10 +31,12 @@
   <h3><br/>Project Idea</h3>
 <section id="Low Fidelity Prototype">
   <h3><br/>Low Fidelity Prototype</h3>
-  <img src="https://colin-lacey.github.io/UofC-Mingle/images/login.jpg" alt="">
-  <img src="" alt="">
-  <img src="" alt="">
-  <img src="" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/login.jpg" alt="login">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/categories.jpg" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/scroll.jpg" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/clublisting.jpg" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/clubpage.jpg" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/map.jpg" alt="">
   
 
 <section>
