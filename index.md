@@ -21,9 +21,7 @@
       <a href="#URM">User Research Methods</a><br/>
       <a href="#TaskDesc">Task Descriptions</a><br/>
       <a href="#Lo-Fi">Low Fidelity Prototype</a><br/>
-      <!---<a href="#Hi-Fi">High Fidelity</a><br/>---!>
-      <!---<a href="#Presentation">Presenatation and Final Report</a><br/>---!>
-      <!---<a href="#sources">Bibliography</a><br/>---!>
+      
   </nav>
 </section>
 
