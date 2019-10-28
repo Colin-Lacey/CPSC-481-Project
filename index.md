@@ -35,7 +35,7 @@
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/clublisting.jpg" alt="">
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/clubpage.jpg" alt="">
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/map.jpg" alt="">
-  <video width="320" height="240" controls>
+  <video width="1280" height="720" controls>
     <source src="https://colin-lacey.github.io/UofC-Mingle/images/vid.avi" type="video/avi">
   </video>
   
