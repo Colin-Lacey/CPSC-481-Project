@@ -4,14 +4,7 @@
 
 ---
 
-### Stage 1
 
-[Group Contract](../pdf/TeamContract.pdf)
-<a href="https://colin-lacey.github.io/UofC-Mingle/pdf/TeamContract.pdf"></a>
-
-### Stage 2
-[Report](../pdf/report.pdf)
-<a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf"></a>
 
 ## Index
 <section>
@@ -22,8 +15,12 @@
   </nav>
 </section>
 
-<section id="ProjectIdea">
-  <h3><br/>Project Idea</h3>
+[Group Contract](../pdf/TeamContract.pdf)
+<a href="https://colin-lacey.github.io/UofC-Mingle/pdf/TeamContract.pdf"></a>
+
+[Report](../pdf/report.pdf)
+<a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf"></a>
+
 <section id="Lo-Fi">
   <h3><br/>Low Fidelity Prototype</h3>
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/login.jpg" alt="login">
