@@ -35,9 +35,8 @@
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/clublisting.jpg" alt="">
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/clubpage.jpg" alt="">
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/map.jpg" alt="">
-  <video class="tab" controls>Your browser does not support the &lt;video&gt; tag.
-    <source src="https://colin-lacey.github.io/UofC-Mingle/images/vid.avi"/>
-  </video>
+  <embed src="https://colin-lacey.github.io/UofC-Mingle/images/vid.avi"></embed>
+
   
 
 <section>
