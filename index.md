@@ -21,14 +21,22 @@
       <a href="#URM">User Research Methods</a><br/>
       <a href="#TaskDesc">Task Descriptions</a><br/>
       <a href="#Lo-Fi">Low Fidelity Prototype</a><br/>
-      <a href="#Hi-Fi">High Fidelity</a><br/>
-      <a href="#Presentation">Presenatation and Final Report</a><br/>
-      <a href="#sources">Bibliography</a><br/>
+      
   </nav>
 </section>
 
 <section id="ProjectIdea">
   <h3><br/>Project Idea</h3>
+<section id="Lo-Fi">
+  <h3><br/>Low Fidelity Prototype</h3>
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/login.jpg" alt="login">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/categories.jpg" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/scroll.jpg" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/clublisting.jpg" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/clubpage.jpg" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/map.jpg" alt="">
+  <embed src="https://colin-lacey.github.io/UofC-Mingle/images/vid.avi"></embed>
+
   
 
 <section>
