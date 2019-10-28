@@ -29,7 +29,7 @@
 
 <section id="ProjectIdea">
   <h3><br/>Project Idea</h3>
-<section id="Low Fidelity Prototype">
+<section id="Lo-Fi">
   <h3><br/>Low Fidelity Prototype</h3>
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/login.jpg" alt="login">
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/categories.jpg" alt="">
