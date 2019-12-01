@@ -5,23 +5,18 @@
 ---
 
 
-[Group Contract](../pdf/TeamContract.pdf)
-<a href="https://colin-lacey.github.io/UofC-Mingle/pdf/TeamContract.pdf"></a>
+<a href="https://colin-lacey.github.io/UofC-Mingle/pdf/TeamContract.pdf">Team Contract</a>
 
-[Stage 2 Report](../pdf/report.pdf)
-<a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf"></a>
+<a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf">Stage 2 Report</a>
 
 [Stage 3 Report](../pdf/report3.pdf)
- <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report3.pdf"></a>
+ <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report3.pdf">Stage 3 Report</a>
  
- [Stage 3 PowerPoint](../pdf/ppt3.pptx)
- <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt3.pptx"></a>
+ <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt3.pptx">Stage 3 Powerpoint</a>
  
- [Stage 4 Report](../pdf/report4.pdf)
- <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report4.pdf"></a>
+ <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report4.pdf">Stage 4 Report</a>
  
- [Stage 5 Report](../pdf/report5.pdf)
- <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report5.pdf"></a>
+ <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report5.pdf">Stage 5 Report</a>
 
 ## Index
 <section>
