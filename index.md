@@ -24,13 +24,13 @@
    <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf">Report</a><br/>
   <h5>Stage 3</h5>
    <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report3.pdf">Report</a><br/>
-   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt3.pptx">Powerpoint</a><br/>
+   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt3.pptx">PowerPoint</a><br/>
   <h5>Stage 4</h5>
    <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report4.pdf">Report</a><br/>
-   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt4.pptx">Powerpoint</a><br/>
+   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt4.pptx">PowerPoint</a><br/>
   <h5>Stage 5</h5>
    <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report5.pdf">Report</a><br/>
-   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt5.pptx">Report</a><br/>
+   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt5.pptx">PowerPoint</a><br/>
 </section> 
 
 
