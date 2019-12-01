@@ -22,11 +22,11 @@
 <section>
   <nav id="nav">
       
-      <a href="#Lo-Fi">Low Fidelity Prototype</a>
+      <a href="#Lo-Fi">Low Fidelity Prototype</a><br/>
       
-      <a href="#Hi-Fi">High Fidelity Prototype</a>
+      <a href="#Hi-Fi">High Fidelity Prototype</a><br/>
       
-      <a href="#Hi-Fi">Final Product</a>
+      <a href="#Hi-Fi">Final Product</a><br/>
       
   </nav>
 </section>
