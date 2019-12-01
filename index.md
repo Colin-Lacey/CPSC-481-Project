@@ -43,7 +43,7 @@
  </section>
 <section id="Hi-Fi">
   <h3>High Fidelity Prototype</h3>
-  <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf">Adobe XD Hi-Fi Prototype</a>
+  <a href="https://xd.adobe.com/view/7f4c9a6e-5a7e-4b28-5f93-39eb5dffd701-097d">Adobe XD Hi-Fi Prototype</a>
   
 
   
