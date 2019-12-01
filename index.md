@@ -20,17 +20,17 @@
 
 <section id="Deliverables">
   <h3>Stage Deliverables</h3>
-   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/TeamContract.pdf">Team Contract</a>
+   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/TeamContract.pdf">Team Contract</a><br/>
 
-   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf">Stage 2 Report</a>
+   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf">Stage 2 Report</a><br/>
 
-   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report3.pdf">Stage 3 Report</a>
+   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report3.pdf">Stage 3 Report</a><br/>
  
-   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt3.pptx">Stage 3 Powerpoint</a>
+   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt3.pptx">Stage 3 Powerpoint</a><br/>
  
-   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report4.pdf">Stage 4 Report</a>
+   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report4.pdf">Stage 4 Report</a><br/>
  
-   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report5.pdf">Stage 5 Report</a>
+   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report5.pdf">Stage 5 Report</a><br/>
 </section> 
 
 
