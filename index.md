@@ -48,7 +48,7 @@
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/map.jpg" width="250" alt="">
 <section id="Hi-Fi">
   <h3><br/>High Fidelity Prototype</h3>
-  
+  <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf">Adobe XD Hi-Fi Prototype</a>
   
 
   
