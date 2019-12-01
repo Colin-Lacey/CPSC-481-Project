@@ -16,6 +16,9 @@
  
  [Stage 3 PowerPoint](../pdf/ppt3.pptx)
  <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt3.pptx"></a>
+ 
+ [Stage 4 Report](../pdf/report-4.pdf)
+ <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report-4.pdf"></a>
 
 ## Index
 <section>
@@ -23,12 +26,22 @@
       
       <a href="#Lo-Fi">Low Fidelity Prototype</a><br/>
       
+      <a href="#Hi-Fi">High Fidelity Prototype</a><br/>
+      
   </nav>
 </section>
 
 
 
 <section id="Lo-Fi">
+  <h3><br/>Low Fidelity Prototype</h3>
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/login.jpg" alt="login">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/categories.jpg" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/scroll.jpg" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/clublisting.jpg" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/clubpage.jpg" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/map.jpg" alt="">
+<section id="Hi-Fi">
   <h3><br/>Low Fidelity Prototype</h3>
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/login.jpg" alt="login">
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/categories.jpg" alt="">
