@@ -56,5 +56,5 @@
 </section>
 
 <section id="Final">
-  <h3>Final</h3>
+  <h3>Final Product</h3>
 </section>
