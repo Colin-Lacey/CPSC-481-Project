@@ -9,8 +9,7 @@
 
 <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf">Stage 2 Report</a>
 
-[Stage 3 Report](../pdf/report3.pdf)
- <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report3.pdf">Stage 3 Report</a>
+<a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report3.pdf">Stage 3 Report</a>
  
  <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt3.pptx">Stage 3 Powerpoint</a>
  
