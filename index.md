@@ -42,7 +42,7 @@
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/clubpage.jpg" alt="">
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/map.jpg" alt="">
 <section id="Hi-Fi">
-  <h3><br/>Low Fidelity Prototype</h3>
+  <h3><br/>High Fidelity Prototype</h3>
   
   
 
