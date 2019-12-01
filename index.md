@@ -40,12 +40,12 @@
 
 <section id="Lo-Fi">
   <h3><br/>Low Fidelity Prototype</h3>
-  <img src="https://colin-lacey.github.io/UofC-Mingle/images/login.jpg" width="100" alt="login">
-  <img src="https://colin-lacey.github.io/UofC-Mingle/images/categories.jpg" width="100" alt="">
-  <img src="https://colin-lacey.github.io/UofC-Mingle/images/scroll.jpg" width="100" alt="">
-  <img src="https://colin-lacey.github.io/UofC-Mingle/images/clublisting.jpg" width="100" alt="">
-  <img src="https://colin-lacey.github.io/UofC-Mingle/images/clubpage.jpg" width="100" alt="">
-  <img src="https://colin-lacey.github.io/UofC-Mingle/images/map.jpg" width="100" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/login.jpg" width="150" alt="login">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/categories.jpg" width="150" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/scroll.jpg" width="150" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/clublisting.jpg" width="150" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/clubpage.jpg" width="150" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/map.jpg" width="150" alt="">
 <section id="Hi-Fi">
   <h3><br/>High Fidelity Prototype</h3>
   
