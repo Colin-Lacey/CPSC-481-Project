@@ -1,13 +1,13 @@
 # UofC Mingle
 ### Group 3.5 CPSC 481 Fall 2019
-## Portfolio
+### Portfolio
 
 
 ## Index
 <section>
   <nav id="nav">
    
-     <a href="#Deliverables">Stage Deliverables</a><br/>
+      <a href="#Deliverables">Stage Deliverables</a><br/>
       
       <a href="#Lo-Fi">Low Fidelity Prototype</a><br/>
       
@@ -19,6 +19,7 @@
 </section>
 
 <section id="Deliverables">
+  <h3>Stage Deliverables</h3>
    <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/TeamContract.pdf">Team Contract</a>
 
    <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf">Stage 2 Report</a>
