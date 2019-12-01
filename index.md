@@ -11,17 +11,17 @@
 [Stage 2 Report](../pdf/report.pdf)
 <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf"></a>
 
-[Stage 3 Report](../pdf/report-3.pdf)
- <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report-3.pdf"></a>
+[Stage 3 Report](../pdf/report3.pdf)
+ <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report3.pdf"></a>
  
  [Stage 3 PowerPoint](../pdf/ppt3.pptx)
  <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt3.pptx"></a>
  
- [Stage 4 Report](../pdf/report-4.pdf)
- <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report-4.pdf"></a>
+ [Stage 4 Report](../pdf/report4.pdf)
+ <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report4.pdf"></a>
  
- [Stage 5 Report](../pdf/report-5.pdf)
- <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report-5.pdf"></a>
+ [Stage 5 Report](../pdf/report5.pdf)
+ <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report5.pdf"></a>
 
 ## Index
 <section>
