@@ -48,6 +48,8 @@
   <h5>Changes after our Heuristic Evaluation</h5>
    <p>We moved the position of the profile settings button to allow easier thumb access.</p>
    <img src="https://colin-lacey.github.io/UofC-Mingle/images/change1.png" width="500" alt="">
+   <p>We changed the name of the "daily" button to "weekly" to better match its function.</p>
    <img src="https://colin-lacey.github.io/UofC-Mingle/images/change2.png" width="500" alt="">
+  <p>We added a back button to the map page to allow easier navigation and unify with the rest of the UI.</p>
    <img src="https://colin-lacey.github.io/UofC-Mingle/images/change3.png" width="500" alt="">
 </section>
