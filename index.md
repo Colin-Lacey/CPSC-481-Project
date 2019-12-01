@@ -1,4 +1,3 @@
-# UofC Mingle
 ### Group 3.5 CPSC 481 Fall 2019
 
 ## Index
