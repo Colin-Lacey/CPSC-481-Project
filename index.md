@@ -30,6 +30,7 @@
    <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt4.pptx">Powerpoint</a><br/>
   <h5>Stage 5</h5>
    <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report5.pdf">Report</a><br/>
+   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt5.pptx">Report</a><br/>
 </section> 
 
 
@@ -52,4 +53,8 @@
    <img src="https://colin-lacey.github.io/UofC-Mingle/images/change2.png" width="500" alt="">
   <p>We added a back button to the map page to allow easier navigation and unify with the rest of the UI.</p>
    <img src="https://colin-lacey.github.io/UofC-Mingle/images/change3.png" width="500" alt="">
+</section>
+
+<section id="Final">
+  <h3>Final</h3>
 </section>
