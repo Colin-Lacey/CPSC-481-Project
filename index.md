@@ -35,7 +35,7 @@
 
 
 <section id="Lo-Fi">
-  <h3><br/>Low Fidelity Prototype</h3>
+  <h3>Low Fidelity Prototype</h3>
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/login.jpg" width="250" alt="login">
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/categories.jpg" width="250" alt="">
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/scroll.jpg" width="250" alt="">
@@ -44,7 +44,7 @@
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/map.jpg" width="250" alt="">
  </section>
 <section id="Hi-Fi">
-  <h3><br/>High Fidelity Prototype</h3>
+  <h3>High Fidelity Prototype</h3>
   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf">Adobe XD Hi-Fi Prototype</a>
   
 
