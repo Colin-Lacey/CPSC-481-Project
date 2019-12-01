@@ -18,17 +18,17 @@
 
 <section id="Deliverables">
   <h3>Stage Deliverables</h3>
-  <h4>Stage 1</h4>
+  <h5>Stage 1</h5>
    <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/TeamContract.pdf">Team Contract</a><br/>
-  <h4>Stage 2</h4>
+  <h5>Stage 2</h5>
    <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf">Report</a><br/>
-  <h4>Stage 3</h4>
-   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report3.pdf">Stage 3 Report</a><br/>
-   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt3.pptx">Stage 3 Powerpoint</a><br/>
-  <h4>Stage 4</h4>
-   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report4.pdf">Stage 4 Report</a><br/>
-  <h4>Stage 5</h4>
-   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report5.pdf">Stage 5 Report</a><br/>
+  <h5>Stage 3</h5>
+   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report3.pdf">Report</a><br/>
+   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt3.pptx">Powerpoint</a><br/>
+  <h5>Stage 4</h5>
+   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report4.pdf">Report</a><br/>
+  <h5>Stage 5</h5>
+   <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report5.pdf">Report</a><br/>
 </section> 
 
 
