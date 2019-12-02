@@ -182,11 +182,6 @@ As noted before there are some features, especially gamification, that would hav
    <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt5.pptx">PowerPoint</a><br/>
 </section> 
 
-
-<section id="Lo-Fi">
-  <h2>Low Fidelity Prototype</h2>
-	<embed src="https://colin-lacey.github.io/UofC-Mingle/images/vid.avi"></embed>
- </section>
 <section id="Hi-Fi">
   <h2>High Fidelity Prototype</h2>
   <a href="https://xd.adobe.com/view/7f4c9a6e-5a7e-4b28-5f93-39eb5dffd701-097d">Adobe XD Hi-Fi Prototype</a>
