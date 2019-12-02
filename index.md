@@ -52,9 +52,11 @@ All in all, the app was easy to pick up and learn with adjustments needed to bet
 The most important thing was fixing the bugs and implementing missing features, such as the ability to add a friend to a friend list. The search function was completed.
 
 Some cosmetic changes were made, such as:
-* Changing the map icon to a more appropriate one.
-* Repositioning some of the buttons.
-* Change the colors to something softer.
+<ul>
+<li>Changing the map icon to a more appropriate one.</li>
+<li>Repositioning some of the buttons.</li>
+<li>Change the colors to something softer.</li>
+</ul>
 <h5>Dropped and Other Possible Changes</h5>
 As the gamification of the app was dropped due to the overall time investment required to implement the features, had there been more time to do another iteration we might have implemented it. Such features would include a point system for attending events around campus, which can then be converted into rewards or prices, providing users with a bigger sense of pride and accomplishment for contributing to their clubs.
 <h5>Conclusion</h5>
