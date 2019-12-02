@@ -29,7 +29,7 @@
 <section id="Intro">
   <h4>Introduction</h4>
 </section>
-  We are group 3.5, and the app we developed was U of C Mingle - a social network intended to connect students with club events around the university campus.
+  We are group 3.5, and the app we developed was U of C Mingle - a social network intended to connect students with club events around the university campus. It is intended to bring a more user-friendly interface than ever seen before on campus.
   <section id="Des">
   <h4>Design Problem</h4>
  </section>
@@ -82,9 +82,6 @@ Some of the important parts of the current design:
 </ul>
 <p>
 An idea that was scrapped was a game-like set of interactions and interface for the application, based on the old ‘LevelUp’ program. We thought that this feature would be helpful to encourage the use of the app, but it was of secondary importance compared to the major functionalities and UX features that we decided to focus on instead.
-</p>
-<p>
-An important secondary consideration was the social features. It was decided that this would be limited to friends being able to view and follow each other’s public activities, as additional features would dilute the experience (and there are plenty of social applications already). The presence of too many features  that duplicate functionality in other social media apps (like messaging or other ways of communicating with friends) could easily complicate the way users interact with the app, and distract from its central features in a way that would take away from the overall user experience.
 </p>
 <h5>Affinity Diagram</h5>
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/affinity.png" alt="">
