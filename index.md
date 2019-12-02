@@ -66,17 +66,18 @@ Our <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf">stage two
 </section>
 Some of the important parts of the current design:
 <ul>  
-<li> A home feed for bringing all personal news into one column <ul><li>The idea behind this is to aggregate the most important information that the user 
-	hasn’t yet seen into a single screen that is immediately presented to them.
+<li> A home feed for bringing all personal news into one column <ul><li>The idea behind this is to aggregate the most important information that the user has not yet seen into a single screen that is immediately presented to them. It compiles all the information of different clubs into one screen for the user to easily access and read.
 </li></ul></li>
-<li> An interactive map to display the locations of the events that you have added <ul><li>This gives the user feedback to the let them know where events are happening (including in relation to each other) and helps them to navigate the campus.
+<li> An interactive map to display the locations of the events that you have added <ul><li>This gives the user feedback to let them know where events are happening (including in relation to each other) and helps them to navigate the campus. It visualises where the location of the event is for a quick idea of where the user should head towards.
 </li></ul></li>
 <li> Both a monthly and a weekly view for your personal upcoming events, as well as general events around campus <ul><li>This calendar is a central feature which not only lets users know when events that they have selected are happening, but also helps them discover new events according to their own schedule.
 </li></ul></li>
-<li> A categorical search system for finding clubs, as well as a keyword search function <ul><li>This feature helps users to get info about and subscribe to clubs that they already know they’re interested in (or to find these clubs according to their categorization), rather than just looking through a list of events.
+<li> A categorical search system for finding clubs, as well as a keyword search function <ul><li>This feature helps users to get info about and subscribe to clubs that they already know they’re interested in (or to find these clubs according to their categorization), rather than just looking through a list of events. It makes it easy to find clubs that are similar to that of what they like as well with the categorisation.
 </li></ul></li>
-<li> Personal profile to keep track of your past and current clubs <ul><li>This facilitates the social aspect of the app (for instance 
-knowing what events your friends are attending) and helps the user to organize and modify important information that can change the way other features work.
+<li> Personal profile to keep track of your past and current clubs <ul><li>This facilitates another aspect of the personalisation feature of the application. It allows the user to see the clubs they are subscribed to and also events they attended in the past, for references in case they wish to attend something similar in the future. Also, it helps the user to organize and modify important information that can change the way other features work.
+</li></ul></li>
+<li>A friend system to see what they are up to on campus
+<ul><li>We wanted to make it easy for users to find out what their friends are up to on campus. It was decided that this would be limited to friends being able to view and follow each other’s public activities, as additional features would dilute the experience (and there are plenty of social applications already). The presence of too many features  that duplicate functionality in other social media apps (like messaging or other ways of communicating with friends) could easily complicate the way users interact with the app, and distract from its central features in a way that would take away from the overall user experience. We modelled this based off of Spotify, as you are able to add friends to see what music they are listening to, but cannot messaged them on the application. It helps keep the focus on clubs and events rather than on being a messaging application.
 </li></ul></li>
 </ul>
 <p>
@@ -98,11 +99,19 @@ An important secondary consideration was the social features. It was decided tha
 <h4>Heuristic Evaluation and Findings</h4>
 </section>
 <p>
-The functionality of the app worked well to show the user where they are and what they did, as well as holding very consistent standards that many other apps do (visually with the choice of symbols used and in the general layout and locations of the buttons). 
+We worked with another group and traded our prototypes to test out and give heuristic evaluations on. We received a lot of helpful feedback, which outlines what works really well in our application, but also what was needed to improve on.
 </p>
-However, the inconsistency lies in how to navigate the app, either by returning to the main 4 sections in order to access information in them, or in going back a step.
 <p>
-The overall color and design of the app could also be workshopped a bit better, the original colors were too harsh and the text boxes were sharper when compared to other apps’.
+The most critical problems that we received from the feedback iinclude bug fixes regarding which buttons can be pressed and where they lead - for instance, being unable to press the home button, or the back button not leading to the proper screen. Another critical issue is matching between the system and the UI. In one instance the flag icon didn’t intuitively represent the map. One case of confusion also lied in the calendar tab as it was split between daily and monthly where daily showed monthly information but in list form as opposed to calendar, which was unexpected to the testers. The profile settings button was placed in an uncomfortable area to click on and the title of profile settings did not really match with the page it leads to, as it did not feel like a settings type page.
+</p>
+<p>
+There were a number of criticisms that we decided were important, but could wait to be improved in the final product. In regard to flexibility and ease of use, the other group suggested that the app lacked features to make it easier for power users to navigate it more quickly. We’re considering ways that we might be able to do this in the final situation because we think it would require more thought than easier-to-fix and more critical issues. They also suggested that our “recent announcements” page, which currently serves as a main feature, might be more useful as a smaller set of a larger feature (perhaps like a list of all announcements). This is another less critical feature that we can evaluate and look at implementing in the final deliverable. 
+</p>
+<p>
+One critique of our aesthetic design came from our TA Brandon, who suggested that our colour scheme of red and yellow, while relevant to the University’s colours, might not be the best choice from a usability/aesthetic perspective, and that we might look into more gentle colour schemes. This is a big part of the app’s experience but doesn’t immediately affect its usefulness, so we’ll save any changes for the final deliverable.
+</p>
+<p>
+For many of the heuristic points, the other team’s feedback was positive and praised our app for its usability and intuitiveness, apart from some of the bugs already outlined. The functionality of the app worked well to show the user where they are and what they did, a user could search up a club on name or via categories that applies to a club. As well as holding very consistent standards that many other apps do (visually with the choice of symbols used and in the general layout and locations for most of the buttons) which made the app easy to pick up and learn to use without needing training to do so. In addition there was no apparent major bugs or severe errors in the prototype that could cause an interruption in the workflow.
 </p>
 <p>
 All in all, the app was easy to pick up and learn with adjustments needed to better suit a user with more experience with apps as well as making it more visually consistent.
