@@ -4,8 +4,6 @@
 <section>
   <nav id="nav">
       <a href="#Report">Report</a><br/>
-      * <a href="#Intro">Introduction</a><br/>
-      * <a href="#DP">Design Problems</a><br/>
       <a href="#Deliverables">Stage Deliverables</a><br/>
       <a href="#Lo-Fi">Low Fidelity Prototype</a><br/>
       <a href="#Hi-Fi">High Fidelity Prototype</a><br/>
