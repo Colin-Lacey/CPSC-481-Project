@@ -194,5 +194,5 @@ As noted before there are some features, especially gamification, that would hav
 
 <section id="Final">
   <h2>Final Product</h2>
-  <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fxd.adobe.com%2Fview%2Fa930b2c8-3550-49a5-669f-84076bd5ef58-df01%2F%3Ffbclid%3DIwAR3UEzra4aAI1nYF5GZwrYhi43c23pGZp4MuzbZiAfcWurcqDFamdfnwnYo&h=AT3aKvyubLO2BUF9Dw_EGpemkB69kjeRBPJdyQCpH-8kCiWv_5HdI7aaQ-SJO9YvXL69yCW48Skuwp5aIvPBwIKddWk8X7fsYncJ4F1-JEB1pxAh_tno_jbGdrph0gCgS667y9M">Final High Fidelity Prototype in Adobe XD</a>
+  <a href="https://xd.adobe.com/view/a930b2c8-3550-49a5-669f-84076bd5ef58-df01">Final High Fidelity Prototype in Adobe XD</a>
 </section>
