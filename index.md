@@ -165,7 +165,6 @@ For the most part we found it easier to nail down useability and functionality b
 <p>
 As noted before there are some features, especially gamification, that would have been implemented ideally, but overall we are proud of the final product we created with user centred design.
 </p>
-</section>
 <section id="Deliverables">
   <h2>Stage Deliverables</h2>
   <h5>Stage 1</h5>
@@ -186,6 +185,7 @@ As noted before there are some features, especially gamification, that would hav
 
 <section id="Lo-Fi">
   <h2>Low Fidelity Prototype</h2>
+	<embed src="https://colin-lacey.github.io/UofC-Mingle/images/vid.avi"></embed>
  </section>
 <section id="Hi-Fi">
   <h2>High Fidelity Prototype</h2>
