@@ -42,7 +42,9 @@ From the interviews, we were able to establish that the most important aspects o
 <h4>Design and Justification</h4>
 Some of the important parts of the current design:
 <ul>  
-<li> A home feed for bringing all personal news into one column </li>
+<li> A home feed for bringing all personal news into one column <li>The idea behind this is to aggregate the most important information that the user 
+	hasn’t yet seen into a single screen that is immediately presented to them.
+</li></li>
 <li> An interactive map to display the locations of the events that you have added </li>
 <li> Both a monthly and a weekly view for your personal upcoming events, as well as general events around campus </li>
 <li> A categorical search system for finding clubs, as well as a keyword search function </li>
