@@ -14,12 +14,12 @@
 
 <section id="Report">
   <h3>Report</h3>
-  <h5>Introduction</h5>
+  <h4>Introduction</h4>
   We are group 3.5, and the app we developed was U of C Mingle - a social network intended to connect students with club events around the university campus.
-  <h5>Design Problem</h5>
+  <h4>Design Problem</h4>
   <p>The crux of the project involves responding to the problem of how to inform and engage students about events going on around campus (especially club events). The target users of the design were thus students, who would use the app to be informed, club executives, who would use the app to inform them, and the administrators who monitors events and clubs.
  </p>
-  <h5>End-users and Stakeholders</h5>
+  <h4>End-users and Stakeholders</h4>
   <p>The end users of the app will be students and club executives.</p> <ul>
 <li>Students would be able to discover new clubs and events or find other students who have already joined clubs they are interested in. They would be able to personalise the application so that it would give them information and notifications on clubs they are following and events they are interested in going to. </li>
 <li>Club executives would be able to add and modify club information more easily, as well as organize club events. The application benefits them by having all the information about their club and events in one application, as well as having it easy to find for students who are interested in what they do, but are not part of the club yet.</li></ul>
@@ -39,7 +39,7 @@ From the interviews, we were able to establish that the most important aspects o
 <p>
 <b>Secondary research</b> - We mostly learned about the idea of a ‘gamified’ interface and its usefulness in engaging users of similar apps. Overall, there were studies that supported the idea that such an interface would indeed be effective. Rationales included a high population of gamers among university students, the preference for a reward system, and the fact that virtual rewards are still effective. While the ‘gamification’ is abandoned, parts of the research still affected the design.
 </p>
-<h5>Design and Justification</h5>
+<h4>Design and Justification</h4>
 Some of the important parts of the current design:
 <ul>  
 <li> A home feed for bringing all personal news into one column </li>
@@ -62,7 +62,7 @@ The overall color and design of the app could also be workshopped a bit better, 
 <p>
 All in all, the app was easy to pick up and learn with adjustments needed to better suit a user with more experience with apps as well as making it more visually consistent.
 </p>
-<h5>Resulting Design Changes</h5>
+<h4>Resulting Design Changes</h4>
 The most important thing was fixing the bugs and implementing missing features, such as the ability to add a friend to a friend list. The search function was completed.
 
 Some cosmetic changes were made, such as:
@@ -71,10 +71,18 @@ Some cosmetic changes were made, such as:
 <li>Repositioning some of the buttons.</li>
 <li>Change the colors to something softer.</li>
 </ul>
-<h5>Dropped and Other Possible Changes</h5>
+<h4>Dropped and Other Possible Changes</h4>
 As the gamification of the app was dropped due to the overall time investment required to implement the features, had there been more time to do another iteration we might have implemented it. Such features would include a point system for attending events around campus, which can then be converted into rewards or prices, providing users with a bigger sense of pride and accomplishment for contributing to their clubs.
-<h5>Conclusion</h5>
-We managed to create an aesthetically pleasing and useable final prototype that accomplished most of the goals outlined in our original idea. As noted before there are some features, especially gamification, that would have been implemented ideally, but overall we are proud of the final product we created with user centred design.
+<h4>Conclusion</h4>
+<p>
+We managed to create an aesthetically pleasing and useable final prototype that accomplished most of the goals outlined in our original idea. With each iteration we were able to refine our ideas in response to feedback from our teaching assistant and from our peers. 
+</p>
+<p>
+For the most part we found it easier to nail down useability and functionality before aesthetic design. For instance, our high fidelity prototype was generally well received in its heuristic evaluation regarding the features and ways the users interacted with the system, but our choice of color scheme, and the look of some elements (like the rounding of buttons) continued to be modified until the final iteration.
+</p>
+<p>
+As noted before there are some features, especially gamification, that would have been implemented ideally, but overall we are proud of the final product we created with user centred design.
+</p>
 
 <section id="Deliverables">
   <h3>Stage Deliverables</h3>
