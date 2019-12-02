@@ -75,16 +75,40 @@ The overall color and design of the app could also be workshopped a bit better, 
 All in all, the app was easy to pick up and learn with adjustments needed to better suit a user with more experience with apps as well as making it more visually consistent.
 </p>
 <h4>Resulting Design Changes</h4>
-The most important thing was fixing the bugs and implementing missing features, such as the ability to add a friend to a friend list. The search function was completed.
-
-Some cosmetic changes were made, such as:
-<ul>
-<li>Changing the map icon to a more appropriate one.</li>
-<li>Repositioning some of the buttons.</li>
-<li>Change the colors to something softer.</li>
-</ul>
+<p>
+We changed our designs based on the feedback we received from the heuristic evaluation, as well as other people such as our TA, Brandon. 
+</p>
+<p>
+We resized some of our buttons, for example, in the map page. The button on the map page to go right or left was too big and unnecessarily blocked more of the map than it should, hence it was made smaller.
+</p>
+<p>
+Our map icon for the navigation bar did not match with what other apps use or what people are used to, which breaches the match between the system and the UI. We changed it to a map pointer icon that is used in the majority of applications including Google Maps. 
+</p>
+<p>
+The daily calendar did not reflect what the users thought it would be and we had to change what the page presented. Initially, it showed events in the month, but in a list style that is easier to read than small texts on a monthly calendar. The users thought it would only show events that are happening on the current day. We decided to change it to a weekly calendar instead, as a daily one would look empty on the page, and proceeded to delete the events that were not happening on that week.
+</p>
+<p>
+The profile settings was placed awkwardly on the page, as it was uncomfortable to press by being on the top left of the screen when your thumb is usually nearer to the bottom left, hence we simply moved the button down. We also changed the name to ‘View Profile’, because in our evaluation the users felt like it was not really a settings page.
+</p>
+<p>
+The colour scheme we chose initially matched that of the university’s colours to keep it consistent as well as present that this application is specifically for this university and its students. However, we received feedback that the red and yellow used was not very aesthetically pleasing. Both colours were very bright and strong and did not complement each other well. Additionally, we had alternated between the colours when presenting lists, however this may create a sense of similarity in the buttons that had the same colours for the users, which is not true when simply listing out clubs or categories, they have no relations to each other. Since the red was also darker, we had to alternate between font colours which creates more inconsistencies. In the end, we changed our colour scheme to that of gold and pale yellow. The font colour was able to stay as one colour of a very dark shade of grey and we did not implement alternating colours when listing. We kept using a paler shade of red for buttons that resonates with ‘removing’ or ‘cancelling’ to match with the system and UI as it is what people are familiar with.
+</p>
+<p>
+One of the features of our application is that you can view a personalised calendar or view the general calendar and see all events that are happening in the month. It was suggested in the evaluation that there should also be a general newsfeed or announcements as well, hence there is now a button ‘Show All’ in the homepage to switch between the features.
+</p>
 <h4>Dropped and Other Possible Changes</h4>
+<p>
 As the gamification of the app was dropped due to the overall time investment required to implement the features, had there been more time to do another iteration we might have implemented it. Such features would include a point system for attending events around campus, which can then be converted into rewards or prices, providing users with a bigger sense of pride and accomplishment for contributing to their clubs.
+</p>
+<p>
+One of the aspects to have when implementing the application was ease of search. We have successfully done that with title and categorisation searching, however we can take it one step further. As of now, each club belongs to one category. This is alright, however, clubs like ‘Aikido’ is able to fit under two categories of Sports and Culture. One might argue, that it should be under a new category that we did not implement, such as ‘Martial Arts’. Hence, for the future iteration of design, we can implement ‘tags’ for clubs to have and to ease searching even further. A club will be able to have multiple tags that best suits their description. For example, ‘Aikido’ will be under the sports category, but it can have the tags ‘martial arts’, ‘japan’, ‘self-defence’, ‘culture’, ‘workout’ and more. This will make it easy for people to search if they know what the club is about. It also prevents a user from selecting a category and having to scroll through tens of clubs to find what they are looking for.
+</p>
+<p>
+Users may often make mistakes when carrying out actions, such as adding or removing things in the application. The user might accidentally add the wrong friend or accidentally rejected an incoming request from a friend. Hence, for future implementations, we can add a confirmation dialog box when doing such actions, just to double check with the user that it was not a mistake that they pressed the button.
+</p>
+<p>
+Another feature that was suggested in the heuristic evaluation was to make the app faster and more efficient for “power users”. We weren’t sure how this could be accomplished in the context of our current working prototype, but if we were to continue with the design it would be useful to go to the investigation stage and ask potential power users what sort of features they might like to see.
+</p>
 <h4>Conclusion</h4>
 <p>
 We managed to create an aesthetically pleasing and useable final prototype that accomplished most of the goals outlined in our original idea. With each iteration we were able to refine our ideas in response to feedback from our teaching assistant and from our peers. 
