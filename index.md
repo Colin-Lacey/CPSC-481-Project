@@ -37,7 +37,7 @@
 <section id="Lo-Fi">
   <h3>Low Fidelity Prototype</h3>
   <h5>Affinity Diagram</h5>
-  <img src="https://colin-lacey.github.io/UofC-Mingle/images/affinity.jpg" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/affinity.png" alt="">
   <h5>Sketches</h5>
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/login.jpg" width="250" alt="login">
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/categories.jpg" width="250" alt="">
