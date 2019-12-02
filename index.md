@@ -121,7 +121,7 @@ As noted before there are some features, especially gamification, that would hav
 </p>
 </section>
 <section id="Deliverables">
-  <h3>Stage Deliverables</h3>
+  <h2>Stage Deliverables</h2>
   <h5>Stage 1</h5>
    <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/TeamContract.pdf">Team Contract</a><br/>
   <h5>Stage 2</h5>
@@ -139,7 +139,7 @@ As noted before there are some features, especially gamification, that would hav
 
 
 <section id="Lo-Fi">
-  <h3>Low Fidelity Prototype</h3>
+  <h2>Low Fidelity Prototype</h2>
   <h5>Affinity Diagram</h5>
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/affinity.png" alt="">
   <h5>Sketches</h5>
@@ -151,7 +151,7 @@ As noted before there are some features, especially gamification, that would hav
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/map.jpg" width="250" alt="">
  </section>
 <section id="Hi-Fi">
-  <h3>High Fidelity Prototype</h3>
+  <h2>High Fidelity Prototype</h2>
   <a href="https://xd.adobe.com/view/7f4c9a6e-5a7e-4b28-5f93-39eb5dffd701-097d">Adobe XD Hi-Fi Prototype</a>
   <h5>Changes after our Heuristic Evaluation</h5>
    <p>We moved the position of the profile settings button to allow easier thumb access.</p>
@@ -163,6 +163,6 @@ As noted before there are some features, especially gamification, that would hav
 </section>
 
 <section id="Final">
-  <h3>Final Product</h3>
+  <h2>Final Product</h2>
   <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fxd.adobe.com%2Fview%2Fa930b2c8-3550-49a5-669f-84076bd5ef58-df01%2F%3Ffbclid%3DIwAR3UEzra4aAI1nYF5GZwrYhi43c23pGZp4MuzbZiAfcWurcqDFamdfnwnYo&h=AT3aKvyubLO2BUF9Dw_EGpemkB69kjeRBPJdyQCpH-8kCiWv_5HdI7aaQ-SJO9YvXL69yCW48Skuwp5aIvPBwIKddWk8X7fsYncJ4F1-JEB1pxAh_tno_jbGdrph0gCgS667y9M">Final High Fidelity Prototype in Adobe XD</a>
 </section>
