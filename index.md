@@ -45,14 +45,22 @@ Some of the important parts of the current design:
 <li> A home feed for bringing all personal news into one column <ul><li>The idea behind this is to aggregate the most important information that the user 
 	hasn’t yet seen into a single screen that is immediately presented to them.
 </li></ul></li>
-<li> An interactive map to display the locations of the events that you have added </li>
-<li> Both a monthly and a weekly view for your personal upcoming events, as well as general events around campus </li>
-<li> A categorical search system for finding clubs, as well as a keyword search function </li>
-<li> Personal profile to keep track of your past and current clubs </li>
+<li> An interactive map to display the locations of the events that you have added <ul><li>This gives the user feedback to the let them know where events are happening (including in relation to each other) and helps them to navigate the campus.
+</li></ul></li>
+<li> Both a monthly and a weekly view for your personal upcoming events, as well as general events around campus <ul><li>This calendar is a central feature which not only lets users know when events that they have selected are happening, but also helps them discover new events according to their own schedule.
+</li></ul></li>
+<li> A categorical search system for finding clubs, as well as a keyword search function <ul><li>This feature helps users to get info about and subscribe to clubs that they already know they’re interested in (or to find these clubs according to their categorization), rather than just looking through a list of events.
+</li></ul></li>
+<li> Personal profile to keep track of your past and current clubs <ul><li>This facilitates the social aspect of the app (for instance 
+knowing what events your friends are attending) and helps the user to organize and modify important information that can change the way other features work.
+</li></ul></li>
 </ul>
-An idea that we scrapped is a game-like set of interactions and interface for the application, based on the old ‘LevelUp’ program.
- 
-An important secondary consideration is the social features. It is decided that this is limited to friends being able to view each other’s public activities, as additional features would dilute the experience (and there are plenty of social applications already).
+<p>
+An idea that was scrapped was a game-like set of interactions and interface for the application, based on the old ‘LevelUp’ program. We thought that this feature would be helpful to encourage the use of the app, but it was of secondary importance compared to the major functionalities and UX features that we decided to focus on instead.
+</p>
+<p>
+An important secondary consideration was the social features. It was decided that this would be limited to friends being able to view and follow each other’s public activities, as additional features would dilute the experience (and there are plenty of social applications already). The presence of too many features  that duplicate functionality in other social media apps (like messaging or other ways of communicating with friends) could easily complicate the way users interact with the app, and distract from its central features in a way that would take away from the overall user experience.
+</p>
 <h4>Heuristic Evaluation and Findings</h4>
 <p>
 The functionality of the app worked well to show the user where they are and what they did, as well as holding very consistent standards that many other apps do (visually with the choice of symbols used and in the general layout and locations of the buttons). 
