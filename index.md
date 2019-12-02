@@ -31,12 +31,13 @@ Secondary research is primarily on the idea of the ‘gamified’ interface. Ove
 </p>
 <h5>Design and Justification</h5>
 Some of the important parts of the current design:
-  
-* A home feed for bringing all personal news into one column
-* An interactive map to display the locations of the events that you have added
-* Both a monthly and a weekly view for your personal upcoming events, as well as general events around campus
-* A categorical search system for finding clubs, as well as a keyword search function
-* Personal profile to keep track of your past and current clubs 
+<ul>  
+<li> A home feed for bringing all personal news into one column </li>
+<li> An interactive map to display the locations of the events that you have added </li>
+<li> Both a monthly and a weekly view for your personal upcoming events, as well as general events around campus </li>
+<li> A categorical search system for finding clubs, as well as a keyword search function </li>
+<li> Personal profile to keep track of your past and current clubs </li>
+</ul>
 An idea that we scrapped is a game-like set of interactions and interface for the application, based on the old ‘LevelUp’ program.
  
 An important secondary consideration is the social features. It is decided that this is limited to friends being able to view each other’s public activities, as additional features would dilute the experience (and there are plenty of social applications already).
