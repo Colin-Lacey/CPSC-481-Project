@@ -20,13 +20,13 @@
   <p>The crux of the project involves responding to the problem of how to inform and engage students in events going on around campus (especially club events). The target users of the design were thus students, who would use the app to be informed, club executives, who would use the app to inform them, and the administrators who monitors events and clubs.
  </p>
   <h5>End-users and Stakeholders</h5>
-  <p>The end users of the app will be students and club executives of the University. The students would be able to discover new clubs and events or find other students who have already joined clubs they are interested in. Club executives  would be able to add and modify club information more easily, as well as organize club events.
-
+  <p>The end users of the app will be students and club executives of the University. The students would be able to discover new clubs and events or find other students who have already joined clubs they are interested in. Club executives  would be able to add and modify club information more easily, as well as organize club events.</p>
+<p>
 The stakeholders of the app are the University’s administration, as well as its end users. The administration must be able to apply certain constraints and to an extent monitor certain aspects, while keeping a fun experience.	
  </p>
  <h5>User Research and Findings</h5>
- <p>Through an interview, it was determined that there are a fair number of people who are not in any clubs, but are interested in joining one. Simultaneously, finding a club is relatively difficult, aside from the 2-day event organized by the university, and there is a certain amount of interest in the application.
-
+ <p>Through an interview, it was determined that there are a fair number of people who are not in any clubs, but are interested in joining one. Simultaneously, finding a club is relatively difficult, aside from the 2-day event organized by the university, and there is a certain amount of interest in the application.</p>
+<p>
 Secondary research is primarily on the idea of the ‘gamified’ interface. Overall, there were studies that supported the idea that such an interface would indeed be effective. Rationales included a high population of gamers among university students, the preference for a reward system, and the fact that virtual rewards are still effective. While the ‘gamification’ is abandoned, parts of the research still affected the design.
 </p>
 <h5>Design and Justification</h5>
@@ -35,8 +35,9 @@ Secondary research is primarily on the idea of the ‘gamified’ interface. Ove
 *An interactive map to display the locations of the events that you have added
 *Both a monthly and a weekly view for your personal upcoming events, as well as general events around campus
 *A categorical search system for finding clubs, as well as a keyword search function
-*Personal profile to keep track of your past and current clubs
-An idea that we scrapped is a game-like set of interactions and interface for the application, based on the old ‘LevelUp’ program.
+*Personal profile to keep track of your past and current clubs </p>
+<p>An idea that we scrapped is a game-like set of interactions and interface for the application, based on the old ‘LevelUp’ program.</p>
+<p>  
 An important secondary consideration is the social features. It is decided that this is limited to friends being able to view each other’s public activities, as additional features would dilute the experience (and there are plenty of social applications already).
 </p>
 
