@@ -4,6 +4,8 @@
 <section>
   <nav id="nav">
       <a href="#Report">Report</a><br/>
+      * <a href="#Intro">Introduction</a><br/>
+      * <a href="#DP">Design Problems</a><br/>
       <a href="#Deliverables">Stage Deliverables</a><br/>
       <a href="#Lo-Fi">Low Fidelity Prototype</a><br/>
       <a href="#Hi-Fi">High Fidelity Prototype</a><br/>
@@ -14,7 +16,9 @@
 
 <section id="Report">
   <h3>Report</h3>
+  <section id="Intro">
   <h5>Introduction</h5>
+  </section>
   We are group 3.5, and the app we developed was U of C Mingle - a social network intended to connect students with club events around the university campus.
   <h5>Design Problem</h5>
   <p>The crux of the project involves responding to the problem of how to inform and engage students in events going on around campus (especially club events). The target users of the design were thus students, who would use the app to be informed, club executives, who would use the app to inform them, and the administrators who monitors events and clubs.
@@ -40,7 +44,25 @@ Some of the important parts of the current design:
 An idea that we scrapped is a game-like set of interactions and interface for the application, based on the old ‘LevelUp’ program.
  
 An important secondary consideration is the social features. It is decided that this is limited to friends being able to view each other’s public activities, as additional features would dilute the experience (and there are plenty of social applications already).
+<h5>Heuristic Evaluation and Findings</h5>
+The functionality of the app worked well to show the user where they are and what they did, as well as holding very consistent standards that many other apps do (visually with the choice of symbols used and in the general layout and locations of the buttons). 
 
+However, the inconsistency lies in how to navigate the app, either by returning to the main 4 sections in order to access information in them, or in going back a step.
+
+The overall color and design of the app could also be workshopped a bit better, the original colors were too harsh and the text boxes were sharper when compared to other apps’.
+
+All in all, the app was easy to pick up and learn with adjustments needed to better suit a user with more experience with apps as well as making it more visually consistent.
+<h5>Resulting Design Changes</h5>
+The most important thing was fixing the bugs and implementing missing features, such as the ability to add a friend to a friend list. The search function was completed.
+
+Some cosmetic changes were made, such as:
+* Changing the map icon to a more appropriate one.
+* Repositioning some of the buttons.
+* Change the colors to something softer.
+<h5>Dropped and Other Possible Changes</h5>
+As the gamification of the app was dropped due to the overall time investment required to implement the features, had there been more time to do another iteration we might have implemented it. Such features would include a point system for attending events around campus, which can then be converted into rewards or prices, providing users with a bigger sense of pride and accomplishment for contributing to their clubs.
+<h5>Conclusion</h5>
+We managed to create an aesthetically pleasing and useable final prototype that accomplished most of the goals outlined in our original idea. As noted before there are some features, especially gamification, that would have been implemented ideally, but overall we are proud of the final product we created with user centred design.
 
 <section id="Deliverables">
   <h3>Stage Deliverables</h3>
