@@ -13,7 +13,7 @@
 </section>
 
 <section id="Report">
-  <h3>Report</h3>
+  <h2>Report</h2>
   <h4>Introduction</h4>
   We are group 3.5, and the app we developed was U of C Mingle - a social network intended to connect students with club events around the university campus.
   <h4>Design Problem</h4>
