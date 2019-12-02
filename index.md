@@ -42,13 +42,16 @@ An idea that we scrapped is a game-like set of interactions and interface for th
  
 An important secondary consideration is the social features. It is decided that this is limited to friends being able to view each other’s public activities, as additional features would dilute the experience (and there are plenty of social applications already).
 <h5>Heuristic Evaluation and Findings</h5>
+<p>
 The functionality of the app worked well to show the user where they are and what they did, as well as holding very consistent standards that many other apps do (visually with the choice of symbols used and in the general layout and locations of the buttons). 
-
+</p>
 However, the inconsistency lies in how to navigate the app, either by returning to the main 4 sections in order to access information in them, or in going back a step.
-
+<p>
 The overall color and design of the app could also be workshopped a bit better, the original colors were too harsh and the text boxes were sharper when compared to other apps’.
-
+</p>
+<p>
 All in all, the app was easy to pick up and learn with adjustments needed to better suit a user with more experience with apps as well as making it more visually consistent.
+</p>
 <h5>Resulting Design Changes</h5>
 The most important thing was fixing the bugs and implementing missing features, such as the ability to add a friend to a friend list. The search function was completed.
 
