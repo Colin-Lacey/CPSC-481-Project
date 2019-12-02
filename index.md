@@ -38,6 +38,8 @@ From the interviews, we were able to establish that the most important aspects o
 </p>
 <p>
 <b>Secondary research</b> - We mostly learned about the idea of a ‘gamified’ interface and its usefulness in engaging users of similar apps. Overall, there were studies that supported the idea that such an interface would indeed be effective. Rationales included a high population of gamers among university students, the preference for a reward system, and the fact that virtual rewards are still effective. While the ‘gamification’ is abandoned, parts of the research still affected the design.
+	
+<a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf">Our stage two report has additional information about the interviews conducted as well as references to the secondary research.</a><br/>
 </p>
 <h4>Design and Justification</h4>
 Some of the important parts of the current design:
