@@ -4,6 +4,17 @@
 <section>
   <nav id="nav">
       <a href="#Report">Report</a><br/>
+	  <ul>
+	  <li>Introduction</li>
+	  <li>Design Problem</li>
+	  <li>Ends-users and Stakeholders</li>
+		<li>User Research and Findings</li>
+		  <li>Design and Justification</li>
+		  <li>Heuristic Evaluation and Findings</li>
+		  <li>Resulting Design Changes</li>
+		  <li>Recommendations for Next Iteration</li>
+		  <li>Conclusion</li>
+	  </ul>
       <a href="#Deliverables">Stage Deliverables</a><br/>
       <a href="#Lo-Fi">Low Fidelity Prototype</a><br/>
       <a href="#Hi-Fi">High Fidelity Prototype</a><br/>
