@@ -16,7 +16,6 @@
 		  <li><a href="#Conclusion">Conclusion</a></li>
 	  </ul>
       <a href="#Deliverables">Stage Deliverables</a><br/>
-      <a href="#Lo-Fi">Low Fidelity Prototype</a><br/>
       <a href="#Hi-Fi">High Fidelity Prototype</a><br/>
       <a href="#Final">Final Product</a><br/>
       
