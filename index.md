@@ -26,7 +26,7 @@
 
 The stakeholders of the app are the University’s administration, as well as its end users. The administration must be able to apply certain constraints and to an extent monitor certain aspects, while keeping a fun experience. 
 </p>
- <h5>User Research and Findings</h5>
+ <h4>User Research and Findings</h4>
  <p>
  <b>Interviews</b> - We were able to get direct feedback from five people through structured questioning. We asked six questions related to clubs and events on campus to gather attention as to how the end users find the current experience and how we could improve it. We found that although not everyone interviewed was already part of a club, they were all interested in searching for and joining clubs and events. However, at the moment, there are a lot of problems and difficulties that they face when trying to do so, mostly due to lack of publicization. Not all of them were satisfied with how they get information about clubs they are a part of as well, either due to disliking the platform being used or the accessibility of the information. 
 </p>
@@ -51,7 +51,7 @@ Some of the important parts of the current design:
 An idea that we scrapped is a game-like set of interactions and interface for the application, based on the old ‘LevelUp’ program.
  
 An important secondary consideration is the social features. It is decided that this is limited to friends being able to view each other’s public activities, as additional features would dilute the experience (and there are plenty of social applications already).
-<h5>Heuristic Evaluation and Findings</h5>
+<h4>Heuristic Evaluation and Findings</h4>
 <p>
 The functionality of the app worked well to show the user where they are and what they did, as well as holding very consistent standards that many other apps do (visually with the choice of symbols used and in the general layout and locations of the buttons). 
 </p>
