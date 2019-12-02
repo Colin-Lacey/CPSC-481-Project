@@ -194,5 +194,5 @@ As noted before there are some features, especially gamification, that would hav
 
 <section id="Final">
   <h2>Final Product</h2>
-  <a href="https://xd.adobe.com/view/a930b2c8-3550-49a5-669f-84076bd5ef58-df01">Final High Fidelity Prototype in Adobe XD</a>
+  <a href="https://xd.adobe.com/view/a930b2c8-3550-49a5-669f-84076bd5ef58-df01/">Final High Fidelity Prototype in Adobe XD</a>
 </section>
