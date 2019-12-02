@@ -1,6 +1,6 @@
 ### Group 3.5 CPSC 481 Fall 2019
 
-## Index
+<h2> Index</h2>
 <section>
   <nav id="nav">
       <a href="#Report">Report</a><br/>
