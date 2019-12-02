@@ -63,6 +63,15 @@ An idea that was scrapped was a game-like set of interactions and interface for 
 <p>
 An important secondary consideration was the social features. It was decided that this would be limited to friends being able to view and follow each other’s public activities, as additional features would dilute the experience (and there are plenty of social applications already). The presence of too many features  that duplicate functionality in other social media apps (like messaging or other ways of communicating with friends) could easily complicate the way users interact with the app, and distract from its central features in a way that would take away from the overall user experience.
 </p>
+<h5>Affinity Diagram</h5>
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/affinity.png" alt="">
+  <h5>Sketches</h5>
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/login.jpg" width="250" alt="login">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/categories.jpg" width="250" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/scroll.jpg" width="250" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/clublisting.jpg" width="250" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/clubpage.jpg" width="250" alt="">
+  <img src="https://colin-lacey.github.io/UofC-Mingle/images/map.jpg" width="250" alt="">
 <h4>Heuristic Evaluation and Findings</h4>
 <p>
 The functionality of the app worked well to show the user where they are and what they did, as well as holding very consistent standards that many other apps do (visually with the choice of symbols used and in the general layout and locations of the buttons). 
@@ -140,15 +149,6 @@ As noted before there are some features, especially gamification, that would hav
 
 <section id="Lo-Fi">
   <h2>Low Fidelity Prototype</h2>
-  <h5>Affinity Diagram</h5>
-  <img src="https://colin-lacey.github.io/UofC-Mingle/images/affinity.png" alt="">
-  <h5>Sketches</h5>
-  <img src="https://colin-lacey.github.io/UofC-Mingle/images/login.jpg" width="250" alt="login">
-  <img src="https://colin-lacey.github.io/UofC-Mingle/images/categories.jpg" width="250" alt="">
-  <img src="https://colin-lacey.github.io/UofC-Mingle/images/scroll.jpg" width="250" alt="">
-  <img src="https://colin-lacey.github.io/UofC-Mingle/images/clublisting.jpg" width="250" alt="">
-  <img src="https://colin-lacey.github.io/UofC-Mingle/images/clubpage.jpg" width="250" alt="">
-  <img src="https://colin-lacey.github.io/UofC-Mingle/images/map.jpg" width="250" alt="">
  </section>
 <section id="Hi-Fi">
   <h2>High Fidelity Prototype</h2>
