@@ -131,6 +131,13 @@ The colour scheme we chose initially matched that of the university’s colours 
 <p>
 One of the features of our application is that you can view a personalised calendar or view the general calendar and see all events that are happening in the month. It was suggested in the evaluation that there should also be a general newsfeed or announcements as well, hence there is now a button ‘Show All’ in the homepage to switch between the features.
 </p>
+<h5>Changes after our Heuristic Evaluation</h5>
+   <p>We moved the position of the profile settings button to allow easier thumb access.</p>
+   <img src="https://colin-lacey.github.io/UofC-Mingle/images/change1.png" width="500" alt="">
+   <p>We changed the name of the "daily" button to "weekly" to better match its function.</p>
+   <img src="https://colin-lacey.github.io/UofC-Mingle/images/change2.png" width="500" alt="">
+  <p>We added a back button to the map page to allow easier navigation and unify with the rest of the UI.</p>
+   <img src="https://colin-lacey.github.io/UofC-Mingle/images/change3.png" width="500" alt="">
 <section id="Next">
 <h4>Recommendations for Next Iteration</h4>
 </section>
@@ -183,13 +190,6 @@ As noted before there are some features, especially gamification, that would hav
 <section id="Hi-Fi">
   <h2>High Fidelity Prototype</h2>
   <a href="https://xd.adobe.com/view/7f4c9a6e-5a7e-4b28-5f93-39eb5dffd701-097d">Adobe XD Hi-Fi Prototype</a>
-  <h5>Changes after our Heuristic Evaluation</h5>
-   <p>We moved the position of the profile settings button to allow easier thumb access.</p>
-   <img src="https://colin-lacey.github.io/UofC-Mingle/images/change1.png" width="500" alt="">
-   <p>We changed the name of the "daily" button to "weekly" to better match its function.</p>
-   <img src="https://colin-lacey.github.io/UofC-Mingle/images/change2.png" width="500" alt="">
-  <p>We added a back button to the map page to allow easier navigation and unify with the rest of the UI.</p>
-   <img src="https://colin-lacey.github.io/UofC-Mingle/images/change3.png" width="500" alt="">
 </section>
 
 <section id="Final">
