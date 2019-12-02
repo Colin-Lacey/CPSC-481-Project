@@ -170,15 +170,15 @@ As noted before there are some features, especially gamification, that would hav
   <h2>Stage Deliverables</h2>
   <h5>Stage 1</h5>
    <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/TeamContract.pdf">Team Contract</a><br/>
-  <h5>Stage 2</h5>
+  <h5>Stage 2 - Investigation</h5>
    <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf">Report</a><br/>
-  <h5>Stage 3</h5>
+  <h5>Stage 3 - Sketching/Ideation </h5>
    <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report3.pdf">Report</a><br/>
    <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt3.pptx">PowerPoint</a><br/>
-  <h5>Stage 4</h5>
+  <h5>Stage 4 - Prototytping </h5>
    <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report4.pdf">Report</a><br/>
    <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt4.pptx">PowerPoint</a><br/>
-  <h5>Stage 5</h5>
+  <h5>Stage 5 - Final Product </h5>
    <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report5.pdf">Report</a><br/>
    <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/ppt5.pptx">PowerPoint</a><br/>
 </section> 
