@@ -5,7 +5,7 @@
   <nav id="nav">
       <a href="#Report">Report</a><br/>
 	  <ul>
-	  <li>Introduction</li>
+	  <li><a href="#Intro">Introduction</a></li>
 	  <li>Design Problem</li>
 	  <li>Ends-users and Stakeholders</li>
 		<li>User Research and Findings</li>
@@ -25,7 +25,10 @@
 
 <section id="Report">
   <h2>Report</h2>
+</section>
+<section id="Intro">
   <h4>Introduction</h4>
+</section>
   We are group 3.5, and the app we developed was U of C Mingle - a social network intended to connect students with club events around the university campus.
   <h4>Design Problem</h4>
   <p>The crux of the project involves responding to the problem of how to inform and engage students about events going on around campus (especially club events). The target users of the design were thus students, who would use the app to be informed, club executives, who would use the app to inform them, and the administrators who monitors events and clubs.
