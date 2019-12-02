@@ -3,7 +3,6 @@
 ## Index
 <section>
   <nav id="nav">
-      <a href="#Exec">Executive Summary</a><br/>
       <a href="#Deliverables">Stage Deliverables</a><br/>
       <a href="#Lo-Fi">Low Fidelity Prototype</a><br/>
       <a href="#Hi-Fi">High Fidelity Prototype</a><br/>
@@ -11,10 +10,6 @@
       
   </nav>
 </section>
-
-<section id="Exec">
-  <h3>Executive Summary</h3>
-</section> 
 
 <section id="Deliverables">
   <h3>Stage Deliverables</h3>
