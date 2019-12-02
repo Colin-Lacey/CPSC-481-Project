@@ -16,9 +16,7 @@
 
 <section id="Report">
   <h3>Report</h3>
-  <section id="Intro">
   <h5>Introduction</h5>
-  </section>
   We are group 3.5, and the app we developed was U of C Mingle - a social network intended to connect students with club events around the university campus.
   <h5>Design Problem</h5>
   <p>The crux of the project involves responding to the problem of how to inform and engage students in events going on around campus (especially club events). The target users of the design were thus students, who would use the app to be informed, club executives, who would use the app to inform them, and the administrators who monitors events and clubs.
