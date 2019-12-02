@@ -17,10 +17,15 @@
   <h5>Introduction</h5>
   We are group 3.5, and the app we developed was U of C Mingle - a social network intended to connect students with club events around the university campus.
   <h5>Design Problem</h5>
-  <p>The crux of the project involves responding to the problem of how to inform and engage students in events going on around campus (especially club events). The target users of the design were thus students, who would use the app to be informed, club executives, who would use the app to inform them, and the administrators who monitors events and clubs.
+  <p>The crux of the project involves responding to the problem of how to inform and engage students about events going on around campus (especially club events). The target users of the design were thus students, who would use the app to be informed, club executives, who would use the app to inform them, and the administrators who monitors events and clubs.
  </p>
   <h5>End-users and Stakeholders</h5>
-  <p>The end users of the app will be students and club executives of the University. The students would be able to discover new clubs and events or find other students who have already joined clubs they are interested in. Club executives  would be able to add and modify club information more easily, as well as organize club events.</p>
+  <p>The end users of the app will be students and club executives.</p> <ul>
+<li>Students would be able to discover new clubs and events or find other students who have already joined clubs they are interested in. They would be able to personalise the application so that it would give them information and notifications on clubs they are following and events they are interested in going to. </li>
+<li>Club executives would be able to add and modify club information more easily, as well as organize club events. The application benefits them by having all the information about their club and events in one application, as well as having it easy to find for students who are interested in what they do, but are not part of the club yet.</li></ul>
+
+The stakeholders of the app are the University’s administration, as well as its end users. The administration must be able to apply certain constraints and to an extent monitor certain aspects, while keeping a fun experience. 
+</p>
 <p>
 The stakeholders of the app are the University’s administration, as well as its end users. The administration must be able to apply certain constraints and to an extent monitor certain aspects, while keeping a fun experience.	
  </p>
