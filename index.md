@@ -6,14 +6,14 @@
       <a href="#Report">Report</a><br/>
 	  <ul>
 	  <li><a href="#Intro">Introduction</a></li>
-	  <li>Design Problem</li>
-	  <li>Ends-users and Stakeholders</li>
-		<li>User Research and Findings</li>
-		  <li>Design and Justification</li>
-		  <li>Heuristic Evaluation and Findings</li>
-		  <li>Resulting Design Changes</li>
-		  <li>Recommendations for Next Iteration</li>
-		  <li>Conclusion</li>
+	  <li><a href="#Des">Design Problem</a></li>
+	  <li><a href="#End">End-users and Stakeholders</a></li>
+		<li><a href="#Research">User Research and Findings</a></li>
+		  <li><a href="#Justification">Design and Justification</a></li>
+		  <li><a href="#Heuristic">Heuristic Evaluation and Findings</a></li>
+		  <li><a href="#Changes">Resulting Design Changes</a></li>
+		  <li><a href="#Next">Recommendations for Next Iteration</a></li>
+		  <li><a href="#Conclusion">Conclusion</a></li>
 	  </ul>
       <a href="#Deliverables">Stage Deliverables</a><br/>
       <a href="#Lo-Fi">Low Fidelity Prototype</a><br/>
@@ -30,17 +30,23 @@
   <h4>Introduction</h4>
 </section>
   We are group 3.5, and the app we developed was U of C Mingle - a social network intended to connect students with club events around the university campus.
+  <section id="Des">
   <h4>Design Problem</h4>
+ </section>
   <p>The crux of the project involves responding to the problem of how to inform and engage students about events going on around campus (especially club events). The target users of the design were thus students, who would use the app to be informed, club executives, who would use the app to inform them, and the administrators who monitors events and clubs.
  </p>
+ <section id="End">
   <h4>End-users and Stakeholders</h4>
+</section>
   <p>The end users of the app will be students and club executives.</p> <ul>
 <li>Students would be able to discover new clubs and events or find other students who have already joined clubs they are interested in. They would be able to personalise the application so that it would give them information and notifications on clubs they are following and events they are interested in going to. </li>
 <li>Club executives would be able to add and modify club information more easily, as well as organize club events. The application benefits them by having all the information about their club and events in one application, as well as having it easy to find for students who are interested in what they do, but are not part of the club yet.</li></ul>
 
 The stakeholders of the app are the University’s administration, as well as its end users. The administration must be able to apply certain constraints and to an extent monitor certain aspects, while keeping a fun experience. 
 </p>
+<section id="Research">
  <h4>User Research and Findings</h4>
+</section>
  <p>
  <b>Interviews</b> - We were able to get direct feedback from five people through structured questioning. We asked six questions related to clubs and events on campus to gather attention as to how the end users find the current experience and how we could improve it. We found that although not everyone interviewed was already part of a club, they were all interested in searching for and joining clubs and events. However, at the moment, there are a lot of problems and difficulties that they face when trying to do so, mostly due to lack of publicization. Not all of them were satisfied with how they get information about clubs they are a part of as well, either due to disliking the platform being used or the accessibility of the information. 
 </p>
@@ -55,7 +61,9 @@ From the interviews, we were able to establish that the most important aspects o
 
 Our <a href="https://colin-lacey.github.io/UofC-Mingle/pdf/report.pdf">stage two report</a> has additional information about the interviews conducted as well as references to the secondary research.
 </p>
+<section id="Justification">
 <h4>Design and Justification</h4>
+</section>
 Some of the important parts of the current design:
 <ul>  
 <li> A home feed for bringing all personal news into one column <ul><li>The idea behind this is to aggregate the most important information that the user 
@@ -86,7 +94,9 @@ An important secondary consideration was the social features. It was decided tha
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/clublisting.jpg" width="250" alt="">
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/clubpage.jpg" width="250" alt="">
   <img src="https://colin-lacey.github.io/UofC-Mingle/images/map.jpg" width="250" alt="">
+<section id="Heuristic">
 <h4>Heuristic Evaluation and Findings</h4>
+</section>
 <p>
 The functionality of the app worked well to show the user where they are and what they did, as well as holding very consistent standards that many other apps do (visually with the choice of symbols used and in the general layout and locations of the buttons). 
 </p>
@@ -97,7 +107,9 @@ The overall color and design of the app could also be workshopped a bit better, 
 <p>
 All in all, the app was easy to pick up and learn with adjustments needed to better suit a user with more experience with apps as well as making it more visually consistent.
 </p>
+<section id="Changes">
 <h4>Resulting Design Changes</h4>
+</section>
 <p>
 We changed our designs based on the feedback we received from the heuristic evaluation, as well as other people such as our TA, Brandon. 
 </p>
@@ -119,7 +131,9 @@ The colour scheme we chose initially matched that of the university’s colours 
 <p>
 One of the features of our application is that you can view a personalised calendar or view the general calendar and see all events that are happening in the month. It was suggested in the evaluation that there should also be a general newsfeed or announcements as well, hence there is now a button ‘Show All’ in the homepage to switch between the features.
 </p>
-<h4>Dropped and Other Possible Changes</h4>
+<section id="Next">
+<h4>Recommendations for Next Iteration</h4>
+</section>
 <p>
 As the gamification of the app was dropped due to the overall time investment required to implement the features, had there been more time to do another iteration we might have implemented it. Such features would include a point system for attending events around campus, which can then be converted into rewards or prices, providing users with a bigger sense of pride and accomplishment for contributing to their clubs.
 </p>
@@ -132,7 +146,9 @@ Users may often make mistakes when carrying out actions, such as adding or remov
 <p>
 Another feature that was suggested in the heuristic evaluation was to make the app faster and more efficient for “power users”. We weren’t sure how this could be accomplished in the context of our current working prototype, but if we were to continue with the design it would be useful to go to the investigation stage and ask potential power users what sort of features they might like to see.
 </p>
+<section id="Conclusion">
 <h4>Conclusion</h4>
+</section>
 <p>
 We managed to create an aesthetically pleasing and useable final prototype that accomplished most of the goals outlined in our original idea. With each iteration we were able to refine our ideas in response to feedback from our teaching assistant and from our peers. 
 </p>
