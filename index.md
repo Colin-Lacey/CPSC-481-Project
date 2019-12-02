@@ -83,7 +83,7 @@ For the most part we found it easier to nail down useability and functionality b
 <p>
 As noted before there are some features, especially gamification, that would have been implemented ideally, but overall we are proud of the final product we created with user centred design.
 </p>
-
+</section>
 <section id="Deliverables">
   <h3>Stage Deliverables</h3>
   <h5>Stage 1</h5>
